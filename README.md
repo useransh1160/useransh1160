@@ -30,8 +30,6 @@ Welcome to my GitHub repository! Here you'll find a collection of projects and c
 Feel free to explore the projects and code samples in this repository. If you have any questions or feedback, don't hesitate to reach out!
 
 
-- 🌱 I’m currently learning ...
-
   
 - Pronouns: You can call me daven not an AI but obviously irreplaceable developer  
 - ⚡ Fun fact: I love eating parle-G with strong tea 
